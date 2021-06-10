@@ -1,0 +1,63 @@
+.test
+{
+	padding-left:100px;
+
+
+}
+form
+{
+	padding:30px;
+	padding-left: 300px;
+}
+
+#form-group
+{
+	width: 100%;
+
+}
+
+.form-group
+{
+	margin-left:20px;
+	margin-top: 20px
+	width:20px;
+	font-size: 20px;
+	font-weight: 100;
+
+}
+.test4
+{
+	margin-left: 650px;
+	border-style: outset;
+	background-color:#0000FF;
+	text-align: center;
+}
+.box
+{
+	left:10px;
+	top:-10px;
+	width:100px;
+    border-style:outset;
+    text-align: center;
+    border-width: 3px;
+    border-color:skyblue;
+	border-radius: 5px;
+	box-shadow: 0 12px 5px rgba(32,32,32,.2);
+
+}
+body
+{
+	background:linear-gradient(rgba(0, 0, 0,0), rgba(0, 0, 0,0)),url("../images/image5.jpg") no-repeat !important ;
+    background-size: cover !important;
+    background-position: center ;
+
+
+}
+#ug
+{
+	font-weight: bold;
+}  
+h1{
+	margin-left:165px;
+	padding-bottom: 50px;
+}  
